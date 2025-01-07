@@ -1,0 +1,1 @@
+Self.var will create the global variable var
